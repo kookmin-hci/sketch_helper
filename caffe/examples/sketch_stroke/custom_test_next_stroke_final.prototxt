@@ -12,7 +12,7 @@ layer {
 	mean_file: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train_mean.binaryproto"
   }
   data_param {
-	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train0_lmdb_1"
+	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train_lmdb_1"
 	batch_size: 100
     backend: LMDB
   }
@@ -47,7 +47,7 @@ layer {
 	mean_file: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train_mean.binaryproto"
   }
   data_param {
-	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train0_lmdb_2"
+	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_train_lmdb_2"
 	batch_size: 100
     backend: LMDB
   }
@@ -67,7 +67,7 @@ layer {
   }
 
   data_param {
-	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_test0_lmdb"
+	source: "/media/hci-gpu/Plextor1tb/google_quick_draw/stroke/dataset/25_gqstroke_test_lmdb"
     batch_size: 100
     backend: LMDB
   }
