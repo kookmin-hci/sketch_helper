@@ -1,0 +1,345 @@
+../binary/aircraft carrier.bin
+../binary/airplane.bin
+../binary/alarm clock.bin
+../binary/ambulance.bin
+../binary/angel.bin
+../binary/animal migration.bin
+../binary/ant.bin
+../binary/anvil.bin
+../binary/apple.bin
+../binary/arm.bin
+../binary/asparagus.bin
+../binary/axe.bin
+../binary/backpack.bin
+../binary/banana.bin
+../binary/bandage.bin
+../binary/barn.bin
+../binary/baseball bat.bin
+../binary/baseball.bin
+../binary/basketball.bin
+../binary/bat.bin
+../binary/bathtub.bin
+../binary/beach.bin
+../binary/bear.bin
+../binary/beard.bin
+../binary/bed.bin
+../binary/bee.bin
+../binary/belt.bin
+../binary/bench.bin
+../binary/bicycle.bin
+../binary/binoculars.bin
+../binary/bird.bin
+../binary/birthday cake.bin
+../binary/blackberry.bin
+../binary/blueberry.bin
+../binary/book.bin
+../binary/boomerang.bin
+../binary/bowtie.bin
+../binary/bracelet.bin
+../binary/brain.bin
+../binary/bread.bin
+../binary/bridge.bin
+../binary/broccoli.bin
+../binary/broom.bin
+../binary/bucket.bin
+../binary/bulldozer.bin
+../binary/bus.bin
+../binary/bush.bin
+../binary/butterfly.bin
+../binary/cactus.bin
+../binary/cake.bin
+../binary/calculator.bin
+../binary/calendar.bin
+../binary/camel.bin
+../binary/camera.bin
+../binary/campfire.bin
+../binary/candle.bin
+../binary/cannon.bin
+../binary/canoe.bin
+../binary/car.bin
+../binary/carrot.bin
+../binary/castle.bin
+../binary/cat.bin
+../binary/ceiling fan.bin
+../binary/cell phone.bin
+../binary/cello.bin
+../binary/chair.bin
+../binary/chandelier.bin
+../binary/church.bin
+../binary/circle.bin
+../binary/clarinet.bin
+../binary/clock.bin
+../binary/cloud.bin
+../binary/compass.bin
+../binary/computer.bin
+../binary/cookie.bin
+../binary/cooler.bin
+../binary/couch.bin
+../binary/cow.bin
+../binary/crab.bin
+../binary/crayon.bin
+../binary/crocodile.bin
+../binary/crown.bin
+../binary/cruise ship.bin
+../binary/cup.bin
+../binary/diamond.bin
+../binary/dishwasher.bin
+../binary/diving board.bin
+../binary/dog.bin
+../binary/dolphin.bin
+../binary/donut.bin
+../binary/basket.bin
+../binary/bottlecap.bin
+../binary/camouflage.bin
+../binary/coffee cup.bin
+../binary/door.bin
+../binary/fire hydrant.bin
+../binary/grapes.bin
+../binary/hot tub.bin
+../binary/lighter.bin
+../binary/motorbike.bin
+../binary/panda.bin
+../binary/police car.bin
+../binary/rollerskates.bin
+../binary/skyscraper.bin
+../binary/steak.bin
+../binary/teapot.bin
+../binary/train.bin
+../binary/dragon.bin
+../binary/dresser.bin
+../binary/drill.bin
+../binary/drums.bin
+../binary/duck.bin
+../binary/dumbbell.bin
+../binary/ear.bin
+../binary/elbow.bin
+../binary/elephant.bin
+../binary/envelope.bin
+../binary/eraser.bin
+../binary/eye.bin
+../binary/eyeglasses.bin
+../binary/face.bin
+../binary/fan.bin
+../binary/feather.bin
+../binary/fence.bin
+../binary/finger.bin
+../binary/fireplace.bin
+../binary/firetruck.bin
+../binary/fish.bin
+../binary/flamingo.bin
+../binary/flashlight.bin
+../binary/flip flops.bin
+../binary/floor lamp.bin
+../binary/flower.bin
+../binary/flying saucer.bin
+../binary/foot.bin
+../binary/fork.bin
+../binary/frog.bin
+../binary/frying pan.bin
+../binary/garden hose.bin
+../binary/garden.bin
+../binary/giraffe.bin
+../binary/goatee.bin
+../binary/golf club.bin
+../binary/grass.bin
+../binary/guitar.bin
+../binary/hamburger.bin
+../binary/hammer.bin
+../binary/hand.bin
+../binary/harp.bin
+../binary/hat.bin
+../binary/headphones.bin
+../binary/hedgehog.bin
+../binary/helicopter.bin
+../binary/helmet.bin
+../binary/hexagon.bin
+../binary/hockey puck.bin
+../binary/hockey stick.bin
+../binary/horse.bin
+../binary/hospital.bin
+../binary/hot air balloon.bin
+../binary/hot dog.bin
+../binary/hourglass.bin
+../binary/house plant.bin
+../binary/house.bin
+../binary/hurricane.bin
+../binary/ice cream.bin
+../binary/jacket.bin
+../binary/jail.bin
+../binary/kangaroo.bin
+../binary/key.bin
+../binary/keyboard.bin
+../binary/knee.bin
+../binary/knife.bin
+../binary/ladder.bin
+../binary/lantern.bin
+../binary/laptop.bin
+../binary/leaf.bin
+../binary/leg.bin
+../binary/light bulb.bin
+../binary/lighthouse.bin
+../binary/lightning.bin
+../binary/line.bin
+../binary/lion.bin
+../binary/lipstick.bin
+../binary/lobster.bin
+../binary/lollipop.bin
+../binary/mailbox.bin
+../binary/map.bin
+../binary/marker.bin
+../binary/matches.bin
+../binary/megaphone.bin
+../binary/mermaid.bin
+../binary/microphone.bin
+../binary/microwave.bin
+../binary/monkey.bin
+../binary/moon.bin
+../binary/mosquito.bin
+../binary/mountain.bin
+../binary/mouse.bin
+../binary/moustache.bin
+../binary/mouth.bin
+../binary/mug.bin
+../binary/mushroom.bin
+../binary/nail.bin
+../binary/necklace.bin
+../binary/nose.bin
+../binary/ocean.bin
+../binary/octagon.bin
+../binary/octopus.bin
+../binary/onion.bin
+../binary/oven.bin
+../binary/owl.bin
+../binary/paint can.bin
+../binary/paintbrush.bin
+../binary/palm tree.bin
+../binary/pants.bin
+../binary/paper clip.bin
+../binary/parachute.bin
+../binary/parrot.bin
+../binary/passport.bin
+../binary/peanut.bin
+../binary/pear.bin
+../binary/peas.bin
+../binary/pencil.bin
+../binary/penguin.bin
+../binary/piano.bin
+../binary/pickup truck.bin
+../binary/picture frame.bin
+../binary/pig.bin
+../binary/pillow.bin
+../binary/pineapple.bin
+../binary/pizza.bin
+../binary/pliers.bin
+../binary/pond.bin
+../binary/pool.bin
+../binary/popsicle.bin
+../binary/postcard.bin
+../binary/potato.bin
+../binary/power outlet.bin
+../binary/purse.bin
+../binary/rabbit.bin
+../binary/raccoon.bin
+../binary/radio.bin
+../binary/rain.bin
+../binary/rainbow.bin
+../binary/rake.bin
+../binary/remote control.bin
+../binary/rhinoceros.bin
+../binary/rifle.bin
+../binary/river.bin
+../binary/roller coaster.bin
+../binary/sailboat.bin
+../binary/sandwich.bin
+../binary/saw.bin
+../binary/saxophone.bin
+../binary/school bus.bin
+../binary/scissors.bin
+../binary/scorpion.bin
+../binary/screwdriver.bin
+../binary/sea turtle.bin
+../binary/see saw.bin
+../binary/shark.bin
+../binary/sheep.bin
+../binary/shoe.bin
+../binary/shorts.bin
+../binary/shovel.bin
+../binary/sink.bin
+../binary/skateboard.bin
+../binary/skull.bin
+../binary/sleeping bag.bin
+../binary/smiley face.bin
+../binary/snail.bin
+../binary/snake.bin
+../binary/snorkel.bin
+../binary/snowflake.bin
+../binary/snowman.bin
+../binary/soccer ball.bin
+../binary/sock.bin
+../binary/speedboat.bin
+../binary/spider.bin
+../binary/spoon.bin
+../binary/spreadsheet.bin
+../binary/square.bin
+../binary/squiggle.bin
+../binary/squirrel.bin
+../binary/stairs.bin
+../binary/star.bin
+../binary/stereo.bin
+../binary/stethoscope.bin
+../binary/stitches.bin
+../binary/stop sign.bin
+../binary/stove.bin
+../binary/strawberry.bin
+../binary/streetlight.bin
+../binary/string bean.bin
+../binary/submarine.bin
+../binary/suitcase.bin
+../binary/sun.bin
+../binary/swan.bin
+../binary/sweater.bin
+../binary/swing set.bin
+../binary/sword.bin
+../binary/syringe.bin
+../binary/t-shirt.bin
+../binary/table.bin
+../binary/teddy-bear.bin
+../binary/telephone.bin
+../binary/television.bin
+../binary/tennis racquet.bin
+../binary/tent.bin
+../binary/The Eiffel Tower.bin
+../binary/The Great Wall of China.bin
+../binary/The Mona Lisa.bin
+../binary/tiger.bin
+../binary/toaster.bin
+../binary/toe.bin
+../binary/toilet.bin
+../binary/tooth.bin
+../binary/toothbrush.bin
+../binary/toothpaste.bin
+../binary/tornado.bin
+../binary/tractor.bin
+../binary/traffic light.bin
+../binary/tree.bin
+../binary/triangle.bin
+../binary/trombone.bin
+../binary/truck.bin
+../binary/trumpet.bin
+../binary/umbrella.bin
+../binary/underwear.bin
+../binary/van.bin
+../binary/vase.bin
+../binary/violin.bin
+../binary/washing machine.bin
+../binary/watermelon.bin
+../binary/waterslide.bin
+../binary/whale.bin
+../binary/wheel.bin
+../binary/windmill.bin
+../binary/wine bottle.bin
+../binary/wine glass.bin
+../binary/wristwatch.bin
+../binary/yoga.bin
+../binary/zebra.bin
+../binary/zigzag.bin
