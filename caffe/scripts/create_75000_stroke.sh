@@ -25,6 +25,8 @@ GLOG_logtostderr=1 $TOOLS/convert_imageset \
     $DATA/75000_Train_stroke.txt \
     $EXAMPLE/25_gqstroke_train_lmdb_1
 
+echo "Done."
+
 echo "Creating second train lmdb 12344..."
 
 GLOG_logtostderr=1 $TOOLS/convert_imageset \
@@ -32,6 +34,21 @@ GLOG_logtostderr=1 $TOOLS/convert_imageset \
     $TRAIN_DATA_ROOT \
     $DATA/75000_Train_stroke2.txt \
     $EXAMPLE/25_gqstroke_train_lmdb_2
+
+echo "Done."
+
+echo "Creating clip label for LSTM lmdb..."
+
+GLOG_logtostderr=1 $TOOLS/convert_imageset \
+    --resize_height=1\
+    --resize_width=1\
+    --encoded \
+    $TRAIN_DATA_ROOT \
+    $DATA/75000_Train_stroke_label.txt \
+    $EXAMPLE/25_gqstroke_train_lmdb_1_label
+
+echo "Done."
+
 
 echo "Creating Test lmdb.."
 
