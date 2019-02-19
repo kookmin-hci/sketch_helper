@@ -80,7 +80,7 @@ Pretrained weight can be downloaded below links from google drive
   
 # Application
 ## Examples
-
+![](readmedata/umbrella.gif)
 ## Requirements
 - Caffe
 - Python2.7
