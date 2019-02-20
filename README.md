@@ -1,8 +1,12 @@
 # Sketch Helper
 
-This is the official implementation of [Sketch Helper](https://ieeexplore.ieee.org/document/8607060) networks and application.
+This is the official implementation of [Sketch Helper](https://ieeexplore.ieee.org/document/8607060) networks and application by Jungwoo Choi, Heeryon Cho, Jinjoo Song and Sang Min Yoon.
+## Representative Image
+![](readmedata/tree.png)
+## Network
+![](readmedata/Train_Diagram.png)
 
-# Download links
+# Download
 Pretrained weight can be downloaded below links from google drive
 
 - [Google drive link](https://drive.google.com/drive/folders/1pvR4ntu3u9U5_uwxsduN_RE3K8mA9pG6?usp=sharing)
